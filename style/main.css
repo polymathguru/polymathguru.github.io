@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #4169E1;
-  color: #776e65;
+  color:#FFEB3B;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -149,7 +149,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #FFFF00;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -329,11 +329,12 @@ hr {
     z-index: 10;
     font-size: 10px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: #FFFF00;
     background: url('../style-sets/pics/2.jpg');
      }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    color: #FFFF00
+    background: #FFFF00;
   background: url('../style-sets/pics/4.jpg');
      }
   .tile.tile-8 .tile-inner {
